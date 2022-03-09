@@ -2,7 +2,7 @@
 	"name": "fxdk-theme",
 	"displayName": "FxDK/FXCode Dark theme",
 	"description": "Theme used in FxDK/FXCode environments. All credits for the theme go to the CitizenFX team.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "LukeWasTaken",
 	"license": "MIT",
 	"repository": {
