@@ -245,7 +245,7 @@
 			}
 		},
 		{
-			"name": "Built-in constants",
+			"name": "Built-in Constants",
 			"scope": [
 				"constant.language"
 			],
@@ -272,7 +272,7 @@
 			}
 		},
 		{
-			"name": "Language variable",
+			"name": "Language Variable",
 			"scope": [
 				"variable.language"
 			],
@@ -337,7 +337,7 @@
 			}
 		},
 		{
-			"name": "Types fixes",
+			"name": "Types Fixes",
 			"scope": [
 				"source.java storage.type",
 				"source.haskell storage.type",
@@ -348,7 +348,7 @@
 			}
 		},
 		{
-			"name": "Inherited class type",
+			"name": "Inherited Class Type",
 			"scope": [
 				"entity.other.inherited-class"
 			],
@@ -357,7 +357,7 @@
 			}
 		},
 		{
-			"name": "Lambda arrow",
+			"name": "Lambda Arrow",
 			"scope": [
 				"storage.type.function"
 			],
@@ -366,7 +366,7 @@
 			}
 		},
 		{
-			"name": "Java primitive variable types",
+			"name": "Java Primitive Variable Types",
 			"scope": [
 				"source.java storage.type.primitive"
 			],
@@ -375,7 +375,7 @@
 			}
 		},
 		{
-			"name": "Function name",
+			"name": "Function Name",
 			"scope": [
 				"entity.name.function"
 			],
@@ -384,7 +384,7 @@
 			}
 		},
 		{
-			"name": "Function arguments",
+			"name": "Function Arguments",
 			"scope": [
 				"variable.parameter",
 				"meta.parameter"
@@ -394,7 +394,7 @@
 			}
 		},
 		{
-			"name": "Function call",
+			"name": "Function Call",
 			"scope": [
 				"variable.function",
 				"variable.annotation",
@@ -406,7 +406,7 @@
 			}
 		},
 		{
-			"name": "Library function",
+			"name": "Library Function",
 			"scope": [
 				"support.function",
 				"support.macro"
@@ -416,7 +416,7 @@
 			}
 		},
 		{
-			"name": "Imports and packages",
+			"name": "Imports and Packages",
 			"scope": [
 				"entity.name.import",
 				"entity.name.package"
@@ -426,7 +426,7 @@
 			}
 		},
 		{
-			"name": "Entity name",
+			"name": "Entity Name",
 			"scope": [
 				"entity.name"
 			],
@@ -456,7 +456,7 @@
 			}
 		},
 		{
-			"name": "Tag attribute",
+			"name": "Tag Attribute",
 			"scope": [
 				"entity.other.attribute-name"
 			],
@@ -465,7 +465,7 @@
 			}
 		},
 		{
-			"name": "Library constant",
+			"name": "Library Constant",
 			"scope": [
 				"support.constant"
 			],
@@ -516,7 +516,7 @@
 			}
 		},
 		{
-			"name": "Ruby class methods",
+			"name": "Ruby Class Methods",
 			"scope": [
 				"source.ruby variable.other.readwrite"
 			],
@@ -525,7 +525,7 @@
 			}
 		},
 		{
-			"name": "CSS tag names",
+			"name": "CSS Tag Names",
 			"scope": [
 				"source.css entity.name.tag",
 				"source.sass entity.name.tag",
@@ -538,7 +538,7 @@
 			}
 		},
 		{
-			"name": "CSS browser prefix",
+			"name": "CSS Browser Prefix",
 			"scope": [
 				"source.css support.type",
 				"source.sass support.type",
@@ -596,7 +596,7 @@
 			}
 		},
 		{
-			"name": "Markup heading",
+			"name": "Markup Heading",
 			"scope": [
 				"markup.heading",
 				"markup.heading entity.name"
@@ -607,7 +607,7 @@
 			}
 		},
 		{
-			"name": "Markup links",
+			"name": "Markup Links",
 			"scope": [
 				"markup.underline.link",
 				"string.other.link"
@@ -695,7 +695,7 @@
 			}
 		},
 		{
-			"name": "Markup added",
+			"name": "Markup Added",
 			"scope": [
 				"markup.inserted"
 			],
@@ -704,7 +704,7 @@
 			}
 		},
 		{
-			"name": "Markup modified",
+			"name": "Markup Modified",
 			"scope": [
 				"markup.changed"
 			],
@@ -713,7 +713,7 @@
 			}
 		},
 		{
-			"name": "Markup removed",
+			"name": "Markup Removed",
 			"scope": [
 				"markup.deleted"
 			],
