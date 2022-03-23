@@ -1,13 +1,13 @@
 {
-	"name": "fxdk-theme",
+	"name":        "fxdk-theme",
 	"displayName": "FxDK/FXCode Dark theme",
-	"description": "Theme used in FxDK/FXCode environments. All credits for the theme go to the CitizenFX team.",
-	"version": "1.0.2",
-	"publisher": "LukeWasTaken",
-	"license": "MIT",
+	"description": "Theme used in FxDK/FXCode environments. All credits for this theme goes to the CitizenFX team.",
+	"version":     "1.0.2",
+	"publisher":   "LukeWasTaken",
+	"license":     "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/LukeWasTakenn/fxdk-theme"
+		"url":  "https://github.com/LukeWasTakenn/fxdk-theme"
 	},
 	"engines": {
 		"vscode": "^1.13.0"
@@ -24,20 +24,20 @@
 		"ayu"
 	],
 	"homepage": "https://github.com/citizenfx/fxcode",
-	"icon": "assets/logo.png",
+	"icon":     "assets/logo.png",
 	"contributes": {
 		"themes": [
 			{
-				"label": "FxDK Dark",
+				"label":   "FxDK Dark",
 				"uiTheme": "vs-dark",
-				"path": "./fxdk-dark.json"
+				"path":    "./fxdk-dark.json"
 			}
 		],
 		"iconThemes": [
 			{
-				"id": "ayu",
+				"id":    "ayu",
 				"label": "Ayu",
-				"path": "./ayu-icons.json"
+				"path":  "./ayu-icons.json"
 			}
 		]
 	}
